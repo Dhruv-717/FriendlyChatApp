@@ -13,11 +13,11 @@ FriendlyChat is an app that allows users to send and receive text and photos in 
 ---
 
 ### ScreenShots   
-![Login Screen](https://imgur.com/gallery/zK1hE26) ![Chat UI](https://imgur.com/gallery/213qpNz) 
+![Login Screen](https://i.imgur.com/tbD81F0.png) ![Chat UI](https://i.imgur.com/OjTj2hq.png) 
 
-![Texting UI](https://imgur.com/gallery/le9ZTc5) ![Image UI](https://imgur.com/gallery/0dtJ6en)
+![Texting UI](https://i.imgur.com/1ExjF45.png) ![Image UI](https://i.imgur.com/IFkK0Wx.png)
 
-![Sign Out Menu Option](https://imgur.com/gallery/Si956ir)
+![Sign Out Menu Option](https://i.imgur.com/qKoK8Pi.png)
 
 ---
 ## Setup
