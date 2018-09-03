@@ -1,14 +1,27 @@
 # FriendlyChat
 
-This repository contains code for the FriendlyChat project in the [Firebase in a Weekend: Android by Google](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352) Udacity course.
+This is a project to show the implementation of firebase real time data base for a chat room-like-application. 
+This project is an extension of the [Firebase: Android by Google](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352) Udacity course project with more features included such as offline capabilities and image caching using picasso.
+UI of the application has also been updated for better UI/UX.
+
+---
 
 ## Overview
 
-FriendlyChat is an app that allows users to send and receive text and photos in realtime across platforms.
+FriendlyChat is an app that allows users to send and receive text and photos in realtime across platforms.This project maintains the data in FireBase Real Time Database(except images). For storing images we have used the FireBase Storage. Authorisation is handled via the FirebaseAuth UI.
 
+---
+
+### ScreenShots   
+![Login Screen](https://imgur.com/gallery/zK1hE26) ![Chat UI](https://imgur.com/gallery/213qpNz) 
+
+![Texting UI](https://imgur.com/gallery/le9ZTc5) ![Image UI](https://imgur.com/gallery/0dtJ6en)
+
+![Sign Out Menu Option](https://imgur.com/gallery/Si956ir)
+
+---
 ## Setup
 
 Setup requires creating a Firebase project. See https://firebase.google.com/ for more information.
+Dependencies for latest version of picasso should be added along with OkHttp.
 
-## License
-See [LICENSE](LICENSE)
